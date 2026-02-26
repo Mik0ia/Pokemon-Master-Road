@@ -1,0 +1,6 @@
+Name = BW Pokedex Style
+Version = 1.4.1
+Essentials = 21.1
+Requires = Luka's Scripting Utilities,3.3
+Credits = Nononever, DeepBlue PacificWaves, NettoHikari, Xtreme1992, NikDie (compatibility with In-Depth Pokedex), KleinStudio (B2W2 graphics)
+Website = https://eeveeexpo.com/resources/510/
