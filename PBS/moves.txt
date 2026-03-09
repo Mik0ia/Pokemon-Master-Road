@@ -785,6 +785,17 @@ FunctionCode = LowerTargetAtkSpAtk1SwitchOutUser
 Flags = CanProtect,CanMirrorMove,Sound
 Description = With a parting threat, the user lowers the target's Attack and Sp. Atk stats. Then it switches out.
 #-------------------------------
+[FANTOMMENACE]
+Name = Fantom Menace
+Type = GHOST
+Category = Status
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = LowerTargetSpeed2SwitchOutUser
+Flags = CanProtect,CanMirrorMove,Sound
+Description = The user vanish menacingly, lowering opponents speed. Then it switches out.
+#-------------------------------
 [QUASH]
 Name = Quash
 Type = DARK
@@ -4735,7 +4746,7 @@ Description = A reckless, life-risking tackle. It also damages the user by a fai
 Name = Head Charge
 Type = NORMAL
 Category = Physical
-Power = 120
+Power = 130
 Accuracy = 100
 TotalPP = 15
 Target = NearOther

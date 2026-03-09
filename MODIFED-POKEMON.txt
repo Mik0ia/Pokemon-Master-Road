@@ -1,0 +1,41 @@
+Neitram / BEHEEYEM : 
+Types = PSYCHIC, STEEL
+BaseStats = 90,50,90,40,140,90
+Abilities = LEVITATE,MIRRORARMOR
++ Metal Squeak
+
+Krabboss / KINGLER : 
+Types = WATER
+BaseStats = 70,160,115,75,30,50
+Abilities = ADAPTABILITY,SHELLARMOR
+HiddenAbilities = SHEERFORCE
++ Crab Hammer lv0
+
+
+Kaorine / CLAYDOL :
+Types = GROUND,PSYCHIC
+BaseStats = 60,70,120,75,70,130
+Abilities = LEVITATE,REGENERATOR
++ soin lv54
+
+
+Tutankafer / COFAGRIGUS :
+Types = GHOST,DARK
+BaseStats = 60,50,145,30,95,120
+Abilities = MUMMY
++ Fantom Menace
+
+
+Frison / BOUFFALANT :
+Types = NORMAL
+BaseStats = 105,125,105,40,30,105
+Abilities = RECKLESS,SAPSIPPER
+HiddenAbilities = SHEERFORCE
++ buff peigné 130
+
+
+Sarmurai / GOLISOPOD :
+Types = BUG,WATER
+BaseStats = 75,140,125,40,60,90
+Abilities = EMERGENCYEXIT
++ changement repli tactique
