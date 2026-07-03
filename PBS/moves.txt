@@ -785,8 +785,8 @@ FunctionCode = LowerTargetAtkSpAtk1SwitchOutUser
 Flags = CanProtect,CanMirrorMove,Sound
 Description = With a parting threat, the user lowers the target's Attack and Sp. Atk stats. Then it switches out.
 #-------------------------------
-[FANTOMMENACE]
-Name = Fantom Menace
+[PHANTOMMENACE]
+Name = phantom Menace
 Type = GHOST
 Category = Status
 Accuracy = 100
@@ -2600,14 +2600,14 @@ Description = The target is razed with a mystical fire of great intensity. It ma
 Name = Metal Squeak
 Type = STEEL
 Category = Special
-Power = 70
+Power = 75
 Accuracy = 100
 TotalPP = 10
 Target = NearOther
 FunctionCode = LowerTargetSpDef1
 Flags = CanProtect,CanMirrorMove,ThawsUser
 EffectChance = 75
-Description = The target is shacked by metallic sounds. It has great chances of dropping the target SpDef. 
+Description = The target is shacked by metallic sounds. It always drops the target SpDef. 
 #-------------------------------
 [SEARINGSHOT]
 Name = Searing Shot
