@@ -46,3 +46,8 @@ BaseStats = 64,135,95,65,63,93
 Abilities = CURSEBODY,MAGICIAN
 HiddenAbilities = PRANKSTER
 + phantom menace
+
+Coxyclaque / LEDIAN :
+Types = BUG,FIGHTING
+BaseStats = 75,130,80,85,35,85
++ Danse Victoire + poing boost +swarmpunches

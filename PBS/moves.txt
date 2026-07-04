@@ -224,6 +224,18 @@ FunctionCode = HitTwoToFiveTimes
 Flags = CanProtect,CanMirrorMove
 Description = Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.
 #-------------------------------
+[SWARMPUNCHS]
+Name = Swarm Punchs
+Type = BUG
+Category = Physical
+Power = 30
+Accuracy = 100
+TotalPP = 20
+Target = NearOther
+FunctionCode = HitTwoToFiveTimes
+Flags = CanProtect,CanMirrorMove,Punching
+Description = User punches the target with a swarm of violent punches.
+#-------------------------------
 [TWINEEDLE]
 Name = Twineedle
 Type = BUG
